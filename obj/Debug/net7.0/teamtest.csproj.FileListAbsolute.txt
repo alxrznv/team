@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\teamtest\bin\Debug\net7.0\teamtest.exe
+C:\Users\User\Desktop\teamtest\bin\Debug\net7.0\teamtest.deps.json
+C:\Users\User\Desktop\teamtest\bin\Debug\net7.0\teamtest.runtimeconfig.json
+C:\Users\User\Desktop\teamtest\bin\Debug\net7.0\teamtest.dll
+C:\Users\User\Desktop\teamtest\bin\Debug\net7.0\teamtest.pdb
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.AssemblyInfo.cs
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.dll
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\refint\teamtest.dll
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.pdb
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\teamtest.genruntimeconfig.cache
+C:\Users\User\Desktop\teamtest\obj\Debug\net7.0\ref\teamtest.dll
